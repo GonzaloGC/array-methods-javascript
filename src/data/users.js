@@ -26,7 +26,7 @@ const users = [
   {
     id: 2,
     name: "Ervin Howell",
-    age: 20,
+    age: 10,
     username: "Antonette",
     email: "Shanna@melissa.tv",
     address: {
@@ -50,7 +50,7 @@ const users = [
   {
     id: 3,
     name: "Clementine Bauch",
-    age: 9,
+    age: 10,
     username: "Samantha",
     email: "Nathan@yesenia.net",
     address: {
@@ -98,7 +98,7 @@ const users = [
   {
     id: 5,
     name: "Chelsey Dietrich",
-    age: 15,
+    age: 10,
     username: "Kamren",
     email: "Lucio_Hettinger@annie.ca",
     address: {
@@ -122,7 +122,7 @@ const users = [
   {
     id: 6,
     name: "Mrs. Dennis Schulist",
-    age: 45,
+    age: 10,
     username: "Leopoldo_Corkery",
     email: "Karley_Dach@jasper.info",
     address: {
@@ -146,7 +146,7 @@ const users = [
   {
     id: 7,
     name: "Kurtis Weissnat",
-    age: 70,
+    age: 10,
     username: "Elwyn.Skiles",
     email: "Telly.Hoeger@billy.biz",
     address: {
@@ -170,7 +170,7 @@ const users = [
   {
     id: 8,
     name: "Nicholas Runolfsdottir V",
-    age: 11,
+    age: 10,
     username: "Maxime_Nienow",
     email: "Sherwood@rosamond.me",
     address: {
@@ -194,7 +194,7 @@ const users = [
   {
     id: 9,
     name: "Glenna Reichert",
-    age: 33,
+    age: 10,
     username: "Delphine",
     email: "Chaim_McDermott@dana.io",
     address: {
@@ -218,7 +218,7 @@ const users = [
   {
     id: 10,
     name: "Clementina DuBuque",
-    age: 35,
+    age: 10,
     username: "Moriah.Stanton",
     email: "Rey.Padberg@karina.biz",
     address: {
@@ -239,6 +239,6 @@ const users = [
       bs: "target end-to-end models",
     },
   },
-]
+];
 
-export default users
+export default users;
