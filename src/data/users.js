@@ -2,6 +2,7 @@ const users = [
   {
     id: 1,
     name: "Leanne Graham",
+    age: 10,
     username: "Bret",
     email: "Sincere@april.biz",
     address: {
@@ -25,6 +26,7 @@ const users = [
   {
     id: 2,
     name: "Ervin Howell",
+    age: 20,
     username: "Antonette",
     email: "Shanna@melissa.tv",
     address: {
@@ -48,6 +50,7 @@ const users = [
   {
     id: 3,
     name: "Clementine Bauch",
+    age: 9,
     username: "Samantha",
     email: "Nathan@yesenia.net",
     address: {
@@ -71,6 +74,7 @@ const users = [
   {
     id: 4,
     name: "Patricia Lebsack",
+    age: 10,
     username: "Karianne",
     email: "Julianne.OConner@kory.org",
     address: {
@@ -94,6 +98,7 @@ const users = [
   {
     id: 5,
     name: "Chelsey Dietrich",
+    age: 15,
     username: "Kamren",
     email: "Lucio_Hettinger@annie.ca",
     address: {
@@ -117,6 +122,7 @@ const users = [
   {
     id: 6,
     name: "Mrs. Dennis Schulist",
+    age: 45,
     username: "Leopoldo_Corkery",
     email: "Karley_Dach@jasper.info",
     address: {
@@ -140,6 +146,7 @@ const users = [
   {
     id: 7,
     name: "Kurtis Weissnat",
+    age: 70,
     username: "Elwyn.Skiles",
     email: "Telly.Hoeger@billy.biz",
     address: {
@@ -163,6 +170,7 @@ const users = [
   {
     id: 8,
     name: "Nicholas Runolfsdottir V",
+    age: 11,
     username: "Maxime_Nienow",
     email: "Sherwood@rosamond.me",
     address: {
@@ -186,6 +194,7 @@ const users = [
   {
     id: 9,
     name: "Glenna Reichert",
+    age: 33,
     username: "Delphine",
     email: "Chaim_McDermott@dana.io",
     address: {
@@ -209,6 +218,7 @@ const users = [
   {
     id: 10,
     name: "Clementina DuBuque",
+    age: 35,
     username: "Moriah.Stanton",
     email: "Rey.Padberg@karina.biz",
     address: {
